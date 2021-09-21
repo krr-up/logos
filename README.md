@@ -1,7 +1,7 @@
 # Logo collection
 
 Collection of logos, related to potassco, or university entities, e.g. for use in slides.
-Logos are store as [Git LFS](https://docs.github.com/en/repositories/working-with-files/managing-large-files) files. 
+Logos are stored as [Git LFS](https://docs.github.com/en/repositories/working-with-files/managing-large-files) files. 
 
 # License
 

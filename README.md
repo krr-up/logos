@@ -35,10 +35,8 @@ digital representation of logos, icons and simple graphics.
 ### GIF
 
 Due to its limitation to 256 colors, the representation of complex photos in
-this format is usually grainy and of low quality. If simple color areas with
-little depth are sufficient, for example for logos, buttons and infographics,
-the GIF is a real professional. The format masters the representation of layers
-and transparency.
+this format is usually grainy and of low quality. The format masters the
+representation of layers and transparency.
 
 ### JPG (Joint Photographic Experts Group)
 
